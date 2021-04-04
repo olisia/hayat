@@ -1,0 +1,2 @@
+# hayat
+Hayatınız nasıl geçti
